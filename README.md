@@ -1,5 +1,5 @@
 # Bricklayers Challenge
-The provided program solves the bricklayers-challenge from the [2018 German Computer Science Competition BWINF](https://bwinf.de/fileadmin/wettbewerbe/bundeswettbewerb/36/2_runde/aufgaben362.pdf) (page 4: "Aufgabe 1: Die Kunst der Fuge"). 
+This was a hobby project to solve the bricklayers-challenge from the [2018 German Computer Science Competition BWINF](https://bwinf.de/fileadmin/wettbewerbe/bundeswettbewerb/36/2_runde/aufgaben362.pdf) (page 4: "Aufgabe 1: Die Kunst der Fuge"). 
 The original problem statement stems from Barry Cipra.
 
 This Java implementation here can find solutions up to ca. n=2000 in some minutes, at which point RAM becomes a limiting factor. At the time of the contest n=34 was the largest known solution.
