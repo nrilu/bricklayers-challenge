@@ -1,0 +1,12 @@
+n=300
+1 runs
+5.0 mpbMax
+5.0sec redoTime
+6 SearchOnset
+15 Period
+90000 Steps
+60 Depth
+
+    redo (5.23 sec)
+164955 (3.6 mpb) (5.41 sec)
+Avg 10.84 sec

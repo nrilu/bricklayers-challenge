@@ -1,0 +1,125 @@
+n=300
+10 runs
+8.0 mpbMax
+6.0sec redoTime
+0 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+No.Searches: 0
+durPre6:2.536
+dur6:   0.031
+dur4:   0.25
+dur2:   0.015
+searchDur:0.0
+durSum: 2.8320000000000003
+last6ToTotal: 0.10459363957597172
+2.83
+No.Searches: 0
+durPre6:2.407
+dur6:   0.046
+dur4:   0.141
+dur2:   0.234
+searchDur:0.0
+durSum: 2.828
+last6ToTotal: 0.14982206405693949
+2.81
+No.Searches: 0
+durPre6:2.375
+dur6:   0.032
+dur4:   0.031
+dur2:   0.39
+searchDur:0.0
+durSum: 2.8280000000000003
+last6ToTotal: 0.16063829787234044
+2.82
+No.Searches: 0
+durPre6:2.469
+dur6:   0.0
+dur4:   0.156
+dur2:   0.282
+searchDur:0.0
+durSum: 2.907
+last6ToTotal: 0.1510344827586207
+2.9
+No.Searches: 0
+durPre6:2.453
+dur6:   0.171
+dur4:   0.266
+dur2:   0.297
+searchDur:0.0
+durSum: 3.187
+last6ToTotal: 0.23154574132492114
+3.17
+No.Searches: 0
+durPre6:2.484
+dur6:   0.0
+dur4:   0.047
+dur2:   1.031
+searchDur:0.0
+durSum: 3.5620000000000003
+last6ToTotal: 0.3019607843137255
+No.Searches: 0
+durPre6:2.156
+dur6:   0.0
+dur4:   0.015
+dur2:   0.703
+searchDur:0.0
+durSum: 2.874
+last6ToTotal: 0.25017421602787454
+2.87
+No.Searches: 0
+durPre6:2.329
+dur6:   0.218
+dur4:   0.782
+dur2:   0.546
+searchDur:0.0
+durSum: 3.875
+last6ToTotal: 0.3984536082474227
+No.Searches: 0
+durPre6:2.609
+dur6:   0.032
+dur4:   0.171
+dur2:   0.25
+searchDur:0.0
+durSum: 3.062
+last6ToTotal: 0.1480392156862745
+3.06
+No.Searches: 0
+durPre6:2.61
+dur6:   0.0
+dur4:   0.0
+dur2:   0.312
+searchDur:0.0
+durSum: 2.9219999999999997
+last6ToTotal: 0.10684931506849316
+2.92
+No.Searches: 0
+durPre6:2.484
+dur6:   0.219
+dur4:   0.078
+dur2:   0.0
+searchDur:0.0
+durSum: 2.7809999999999997
+last6ToTotal: 0.10683453237410072
+2.78
+No.Searches: 0
+durPre6:2.5
+dur6:   0.0
+dur4:   0.078
+dur2:   1.219
+searchDur:0.0
+durSum: 3.7969999999999997
+last6ToTotal: 0.3413157894736842
+No.Searches: 0
+durPre6:2.343
+dur6:   0.0
+dur4:   0.485
+dur2:   0.031
+searchDur:0.0
+durSum: 2.859
+last6ToTotal: 0.18105263157894735
+2.85
+Avg 4.03783 sec
+anteil last3:  0.0

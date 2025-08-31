@@ -1,0 +1,100 @@
+n=301
+10 runs
+8.0 mpbMax
+6.0sec redoTime
+0 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+No.Searches: 0
+durPre6:2.176
+dur6:   0.015
+dur4:   0.0
+dur2:   0.391
+searchDur:0.0
+durSum: 2.5820000000000003
+last6ToTotal: 0.15736434108527134
+2.58
+No.Searches: 0
+durPre6:1.937
+dur6:   0.016
+dur4:   0.156
+dur2:   0.375
+searchDur:0.0
+durSum: 2.484
+last6ToTotal: 0.22056451612903227
+2.48
+No.Searches: 0
+durPre6:1.844
+dur6:   0.031
+dur4:   0.156
+dur2:   0.063
+searchDur:0.0
+durSum: 2.0940000000000003
+last6ToTotal: 0.12019230769230768
+2.08
+No.Searches: 0
+durPre6:1.984
+dur6:   0.031
+dur4:   0.032
+dur2:   0.156
+searchDur:0.0
+durSum: 2.2030000000000003
+last6ToTotal: 0.09954545454545453
+2.2
+No.Searches: 0
+durPre6:1.89
+dur6:   0.25
+dur4:   0.016
+dur2:   0.031
+searchDur:0.0
+durSum: 2.187
+last6ToTotal: 0.1368663594470046
+2.17
+No.Searches: 0
+durPre6:1.922
+dur6:   0.0
+dur4:   0.0
+dur2:   0.016
+searchDur:0.0
+durSum: 1.938
+last6ToTotal: 0.008290155440414507
+1.93
+No.Searches: 0
+durPre6:2.015
+dur6:   0.031
+dur4:   0.0
+dur2:   0.016
+searchDur:0.0
+durSum: 2.0620000000000003
+last6ToTotal: 0.022815533980582524
+2.06
+No.Searches: 0
+durPre6:1.844
+dur6:   0.172
+dur4:   0.015
+dur2:   0.032
+searchDur:0.0
+durSum: 2.063
+last6ToTotal: 0.10682926829268294
+2.05
+No.Searches: 0
+durPre6:1.921
+dur6:   0.032
+dur4:   0.218
+dur2:   0.438
+searchDur:0.0
+durSum: 2.6090000000000004
+last6ToTotal: 0.2636015325670498
+2.61
+No.Searches: 0
+durPre6:1.86
+dur6:   0.047
+dur4:   0.015
+dur2:   0.735
+searchDur:0.0
+durSum: 2.657
+last6ToTotal: 0.29962406015037596
+2.66
+Avg 2290.2 ms

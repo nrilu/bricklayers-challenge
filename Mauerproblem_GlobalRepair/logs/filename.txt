@@ -1,0 +1,10 @@
+n=300
+1 runs
+4.0 mpbMax
+20 SearchOnset
+500 Period
+500 Steps
+20 Depth
+
+144000 (3.1 mpb) (2.83 sec)
+Avg 2.84 sec

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mlist
+comment0.text=\n\ The\ class\ Mlist\ acts\ as\ an\ array,\ with\ entries\ Mlist[i].\n\ Mlist[i]\ \=\ A\ double-linked\ list\ containing\ some\ number\ of\ moves\n
+comment1.params=ltype\ len\ main
+comment1.target=Mlist(int,\ int,\ Main)
+comment2.params=m\ i
+comment2.target=void\ insert(Move,\ int)
+comment3.params=m\ i
+comment3.target=void\ remove(Move,\ int)
+comment4.params=i
+comment4.target=Move\ getnext(int)
+comment5.params=
+comment5.target=void\ gprint()
+numComments=6

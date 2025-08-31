@@ -1,0 +1,316 @@
+n=700
+5 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+30.441
+29.83
+27.484
+28.433
+25.277
+AvgDuration 28.43803
+SingleSol   28.293
+avgSuccMPB  5.614
+last3Anteil 0.159
+failRatio   0.0
+
+
+n=701
+5 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+23.323
+19.799
+21.876
+22.734
+21.373
+AvgDuration 21.82291
+SingleSol   21.821
+avgSuccMPB  3.857
+last3Anteil 0.126
+failRatio   0.0
+
+
+n=800
+5 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+36.977
+38.387
+34.645
+39.531
+37.237
+AvgDuration 37.4126
+SingleSol   37.355
+avgSuccMPB  5.506
+last3Anteil 0.108
+failRatio   0.0
+
+
+n=801
+5 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+28.03
+31.985
+32.752
+29.127
+29.943
+AvgDuration 30.36988
+SingleSol   30.367
+avgSuccMPB  3.982
+last3Anteil 0.153
+failRatio   0.0
+
+
+n=900
+5 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+44.216
+45.461
+51.44
+122.137
+52.211
+AvgDuration 63.15998
+SingleSol   48.353
+avgSuccMPB  5.327
+last3Anteil 0.154
+failRatio   0.166
+
+
+n=901
+5 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+47.492
+40.926
+42.66
+36.891
+35.846
+AvgDuration 41.0479
+SingleSol   40.763
+avgSuccMPB  3.999
+last3Anteil 0.121
+failRatio   0.0
+
+
+n=1000
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+66.659
+67.039
+57.526
+AvgDuration 63.74563
+SingleSol   63.741
+avgSuccMPB  5.684
+last3Anteil 0.119
+failRatio   0.0
+
+
+n=1001
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+48.422
+49.069
+49.893
+AvgDuration 49.1344
+SingleSol   49.128
+avgSuccMPB  3.972
+last3Anteil 0.092
+failRatio   0.0
+
+
+n=1200
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+100.408
+229.137
+116.029
+AvgDuration 148.52967
+SingleSol   109.734
+avgSuccMPB  6.668
+last3Anteil 0.287
+failRatio   0.25
+
+
+n=1201
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+73.13
+84.292
+81.967
+AvgDuration 79.80147
+SingleSol   79.796
+avgSuccMPB  4.234
+last3Anteil 0.16
+failRatio   0.0
+
+
+n=1400
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+146.949
+292.934
+266.581
+AvgDuration 235.49409
+SingleSol   130.949
+avgSuccMPB  5.748
+last3Anteil 0.243
+failRatio   0.4
+
+
+n=1401
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+104.253
+91.934
+113.153
+AvgDuration 103.12036
+SingleSol   103.114
+avgSuccMPB  4.355
+last3Anteil 0.144
+failRatio   0.0
+
+
+n=1600
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+561.329
+345.629
+169.318
+AvgDuration 358.76699
+SingleSol   160.371
+avgSuccMPB  6.077
+last3Anteil 0.381
+failRatio   0.5
+
+
+n=1601
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+116.776
+132.419
+116.461
+AvgDuration 123.57406
+SingleSol   121.885
+avgSuccMPB  4.207
+last3Anteil 0.071
+failRatio   0.0
+
+
+n=1800
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+266.361
+565.05
+586.031
+AvgDuration 472.48993
+SingleSol   253.279
+avgSuccMPB  6.655
+last3Anteil 0.387
+failRatio   0.4
+
+
+n=1801
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+172.971
+216.173
+176.592
+AvgDuration 188.58804
+SingleSol   188.578
+avgSuccMPB  4.451
+last3Anteil 0.14
+failRatio   0.0
+
+
+n=2000
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+394.619
+777.078
+1295.909
+AvgDuration 822.54717
+SingleSol   358.206
+avgSuccMPB  6.709
+last3Anteil 0.483
+failRatio   0.5
+
+
+n=2001
+3 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+260.753
+263.091
+276.716
+AvgDuration 266.86557
+SingleSol   266.853
+avgSuccMPB  4.386
+last3Anteil 0.103
+failRatio   0.0

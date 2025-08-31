@@ -1,0 +1,154 @@
+n=300
+15 runs
+8.0 mpbMax
+5.0sec redoTime
+0 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+No.Searches: 0
+durPre6:4.191
+dur6:   0.344
+dur4:   0.25
+dur2:   0.141
+searchDur:0.0
+durSum: 4.926
+208689 (4.6 mpb) (4.93 sec)
+No.Searches: 0
+durPre6:3.593
+dur6:   0.016
+dur4:   0.547
+dur2:   0.297
+searchDur:0.0
+durSum: 4.452999999999999
+231277 (5.1 mpb) (4.45 sec)
+No.Searches: 0
+durPre6:3.875
+dur6:   0.093
+dur4:   0.235
+dur2:   0.859
+searchDur:0.0
+durSum: 5.062
+    redo (5.06 sec)
+No.Searches: 0
+durPre6:2.968
+dur6:   0.016
+dur4:   0.719
+dur2:   0.641
+searchDur:0.0
+durSum: 4.343999999999999
+274132 (6.0 mpb) (4.35 sec)
+No.Searches: 0
+durPre6:3.312
+dur6:   0.032
+dur4:   0.062
+dur2:   0.219
+searchDur:0.0
+durSum: 3.6249999999999996
+214117 (4.7 mpb) (3.63 sec)
+No.Searches: 0
+durPre6:2.672
+dur6:   0.031
+dur4:   0.0
+dur2:   0.594
+searchDur:0.0
+durSum: 3.297
+195917 (4.3 mpb) (3.3 sec)
+No.Searches: 0
+durPre6:2.891
+dur6:   0.328
+dur4:   0.031
+dur2:   0.734
+searchDur:0.0
+durSum: 3.984
+243295 (5.3 mpb) (3.98 sec)
+No.Searches: 0
+durPre6:2.532
+dur6:   0.0
+dur4:   0.062
+dur2:   0.016
+searchDur:0.0
+durSum: 2.61
+148015 (3.2 mpb) (2.6 sec)
+No.Searches: 0
+durPre6:3.062
+dur6:   0.016
+dur4:   0.312
+dur2:   0.016
+searchDur:0.0
+durSum: 3.4059999999999997
+203424 (4.4 mpb) (3.4 sec)
+No.Searches: 0
+durPre6:3.172
+dur6:   0.0
+dur4:   0.281
+dur2:   0.422
+searchDur:0.0
+durSum: 3.8750000000000004
+236578 (5.2 mpb) (3.87 sec)
+No.Searches: 0
+durPre6:2.984
+dur6:   0.032
+dur4:   0.218
+dur2:   0.969
+searchDur:0.0
+durSum: 4.203
+260874 (5.7 mpb) (4.2 sec)
+No.Searches: 0
+durPre6:2.625
+dur6:   0.156
+dur4:   0.016
+dur2:   0.0
+searchDur:0.0
+durSum: 2.797
+155028 (3.4 mpb) (2.79 sec)
+No.Searches: 0
+durPre6:3.281
+dur6:   0.062
+dur4:   0.016
+dur2:   0.188
+searchDur:0.0
+durSum: 3.547
+206093 (4.5 mpb) (3.54 sec)
+No.Searches: 0
+durPre6:2.64
+dur6:   0.125
+dur4:   0.172
+dur2:   1.391
+searchDur:0.0
+durSum: 4.328
+    redo (4.32 sec)
+No.Searches: 0
+durPre6:2.687
+dur6:   0.203
+dur4:   0.094
+dur2:   0.609
+searchDur:0.0
+durSum: 3.5929999999999995
+220455 (4.8 mpb) (3.59 sec)
+No.Searches: 0
+durPre6:2.797
+dur6:   0.047
+dur4:   0.25
+dur2:   0.297
+searchDur:0.0
+durSum: 3.3910000000000005
+204740 (4.5 mpb) (3.37 sec)
+No.Searches: 0
+durPre6:2.968
+dur6:   0.094
+dur4:   0.203
+dur2:   0.688
+searchDur:0.0
+durSum: 3.9529999999999994
+    redo (3.95 sec)
+No.Searches: 0
+durPre6:2.89
+dur6:   0.078
+dur4:   0.36
+dur2:   0.156
+searchDur:0.0
+durSum: 3.484
+203011 (4.4 mpb) (3.48 sec)
+Avg 4.6 sec

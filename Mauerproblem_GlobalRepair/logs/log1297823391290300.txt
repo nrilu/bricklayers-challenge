@@ -1,0 +1,126 @@
+n=300
+10 runs
+10.0 mpbMax
+10.0sec redoTime
+4 SearchOnset
+30000 Period
+3000 Steps
+10 Depth
+
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+durPre6:4.28
+dur6:   0.038
+dur4:   0.2
+dur2:   3.206
+searchDur:0.525
+durSum: 7.724
+    redo (7.73 sec)
+search started
+durPre6:3.498
+dur6:   0.301
+dur4:   0.016
+dur2:   0.085
+searchDur:0.038
+durSum: 3.9000000000000004
+182268 (4.0 mpb) (3.88 sec)
+durPre6:3.409
+dur6:   0.041
+dur4:   0.279
+dur2:   0.002
+searchDur:0.0
+durSum: 3.7309999999999994
+167194 (3.6 mpb) (3.72 sec)
+search started
+durPre6:3.464
+dur6:   0.02
+dur4:   0.965
+dur2:   0.071
+searchDur:0.122
+durSum: 4.52
+203086 (4.4 mpb) (4.52 sec)
+search started
+search started
+durPre6:3.798
+dur6:   0.248
+dur4:   0.006
+dur2:   1.3
+searchDur:0.083
+durSum: 5.352
+253922 (5.6 mpb) (5.35 sec)
+search started
+search started
+durPre6:3.476
+dur6:   0.606
+dur4:   0.428
+dur2:   0.247
+searchDur:0.05
+durSum: 4.757
+240000 (5.2 mpb) (4.75 sec)
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+search started
+durPre6:3.72
+dur6:   0.085
+dur4:   0.148
+dur2:   3.789
+searchDur:1.204
+durSum: 7.742000000000001
+    redo (7.74 sec)
+search started
+search started
+search started
+durPre6:3.785
+dur6:   0.627
+dur4:   0.116
+dur2:   1.635
+searchDur:0.137
+durSum: 6.162999999999999
+293236 (6.4 mpb) (6.16 sec)
+search started
+durPre6:3.875
+dur6:   0.084
+dur4:   0.417
+dur2:   0.265
+searchDur:0.041
+durSum: 4.641
+220542 (4.8 mpb) (4.64 sec)
+search started
+durPre6:3.538
+dur6:   0.116
+dur4:   -1.609608404837E9
+dur2:   1.609608405097E9
+searchDur:0.028
+durSum: 3.9140000343322754
+180000 (3.9 mpb) (3.91 sec)
+durPre6:3.89
+dur6:   0.129
+dur4:   0.0
+dur2:   0.015
+searchDur:0.0
+durSum: 4.034
+170899 (3.7 mpb) (4.04 sec)
+search started
+durPre6:3.892
+dur6:   0.469
+dur4:   0.851
+dur2:   0.022
+searchDur:0.065
+durSum: 5.234
+207821 (4.5 mpb) (5.23 sec)
+Avg 6.38 sec

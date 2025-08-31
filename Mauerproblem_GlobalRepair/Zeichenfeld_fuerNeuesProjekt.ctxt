@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=m\ f\ b\ h
+comment0.target=Zeichenfeld_fuerNeuesProjekt(Main,\ Fenster_fuerNeuesProjekt,\ int,\ int)
+comment1.params=
+comment1.target=void\ initSelf()
+comment2.params=
+comment2.target=void\ neuZeichnen()
+comment3.params=
+comment3.target=void\ REPAINT()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+numComments=5

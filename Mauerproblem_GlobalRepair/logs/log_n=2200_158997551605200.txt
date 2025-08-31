@@ -1,0 +1,22 @@
+n=2200
+4 runs
+20.0 mpbMax
+1.5 cutFactor
+0 SearchOnset
+>>>
+Memory after initialisation:
+Max memory: 1.013.632
+Total free memory: 259.300
+Total used memory: 754.331 [kB]
+
+553.386
+3028.295
+532.108
+1436.615
+AvgDuration 1388.77785
+SingleSol   561.385
+avgSuccMPB  6.623
+last3Anteil 0.552
+failRatio   0.5
+
+

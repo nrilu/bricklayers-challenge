@@ -1,0 +1,19 @@
+n=31
+1 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+Memory after initialisation:
+Max memory: 8.310.784
+Total free memory: 8.299.148
+Total used memory: 11.635 [kB]
+
+
+total dur: 0.028 s
+solved n=31
+SingleSol   0.028 s
+failRatio   0.0
+
+

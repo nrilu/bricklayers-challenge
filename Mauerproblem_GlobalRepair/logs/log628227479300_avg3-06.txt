@@ -1,0 +1,130 @@
+n=300
+15 runs
+5.0 mpbMax
+5.0sec redoTime
+6 SearchOnset
+15 Period
+300 Steps
+6 Depth
+
+No.Searches: 99
+durPre6:3.321
+dur6:   0.109
+dur4:   0.047
+dur2:   0.094
+searchDur:0.25
+durSum: 3.571
+168255 (3.7 mpb) (3.57 sec)
+No.Searches: 81
+durPre6:2.937
+dur6:   0.031
+dur4:   0.157
+dur2:   0.031
+searchDur:0.203
+durSum: 3.156
+173580 (3.8 mpb) (3.15 sec)
+No.Searches: 52
+durPre6:2.922
+dur6:   0.046
+dur4:   0.094
+dur2:   0.016
+searchDur:0.126
+durSum: 3.078
+176385 (3.8 mpb) (3.07 sec)
+No.Searches: 98
+durPre6:2.484
+dur6:   0.188
+dur4:   0.14
+dur2:   0.016
+searchDur:0.344
+durSum: 2.8280000000000003
+152595 (3.3 mpb) (2.82 sec)
+No.Searches: 32
+durPre6:2.905
+dur6:   0.0
+dur4:   0.047
+dur2:   0.015
+searchDur:0.062
+durSum: 2.967
+173310 (3.8 mpb) (2.97 sec)
+No.Searches: 249
+durPre6:2.984
+dur6:   0.0
+dur4:   0.078
+dur2:   0.313
+searchDur:0.344
+durSum: 3.375
+182310 (4.0 mpb) (3.38 sec)
+No.Searches: 51
+durPre6:2.437
+dur6:   0.063
+dur4:   0.047
+dur2:   0.031
+searchDur:0.141
+durSum: 2.5780000000000003
+147285 (3.2 mpb) (2.57 sec)
+No.Searches: 325
+durPre6:2.797
+dur6:   0.172
+dur4:   0.281
+dur2:   0.219
+searchDur:0.656
+durSum: 3.4690000000000003
+169815 (3.7 mpb) (3.47 sec)
+No.Searches: 49
+durPre6:2.484
+dur6:   0.047
+dur4:   0.047
+dur2:   0.093
+searchDur:0.125
+durSum: 2.6710000000000003
+150195 (3.3 mpb) (2.66 sec)
+No.Searches: 131
+durPre6:2.891
+dur6:   0.031
+dur4:   0.031
+dur2:   0.235
+searchDur:0.204
+durSum: 3.188
+178170 (3.9 mpb) (3.19 sec)
+No.Searches: 64
+durPre6:3.033
+dur6:   0.079
+dur4:   0.078
+dur2:   0.031
+searchDur:0.172
+durSum: 3.221
+183225 (4.0 mpb) (3.22 sec)
+No.Searches: 128
+durPre6:2.781
+dur6:   0.016
+dur4:   0.172
+dur2:   0.078
+searchDur:0.25
+durSum: 3.047
+164385 (3.6 mpb) (3.05 sec)
+No.Searches: 39
+durPre6:2.468
+dur6:   0.0
+dur4:   0.032
+dur2:   0.047
+searchDur:0.079
+durSum: 2.547
+148260 (3.2 mpb) (2.53 sec)
+No.Searches: 59
+durPre6:2.797
+dur6:   0.015
+dur4:   0.125
+dur2:   0.016
+searchDur:0.125
+durSum: 2.9530000000000003
+169485 (3.7 mpb) (2.95 sec)
+No.Searches: 121
+durPre6:2.984
+dur6:   0.0
+dur4:   0.125
+dur2:   0.11
+searchDur:0.235
+durSum: 3.219
+179130 (3.9 mpb) (3.21 sec)
+Avg 3.06 sec

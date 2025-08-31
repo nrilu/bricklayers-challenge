@@ -1,0 +1,66 @@
+n=36
+1 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics false
+>>>
+stress:300  gainmoves:87   zeromoves:0
+stress:200  gainmoves:136   zeromoves:0
+stress:100  gainmoves:186   zeromoves:51
+stress:98  gainmoves:187   zeromoves:51
+stress:96  gainmoves:188   zeromoves:52
+stress:94  gainmoves:189   zeromoves:56
+stress:92  gainmoves:190   zeromoves:63
+stress:90  gainmoves:191   zeromoves:69
+stress:88  gainmoves:192   zeromoves:76
+stress:86  gainmoves:193   zeromoves:78
+stress:84  gainmoves:194   zeromoves:78
+stress:82  gainmoves:195   zeromoves:79
+stress:80  gainmoves:196   zeromoves:82
+stress:78  gainmoves:197   zeromoves:86
+stress:76  gainmoves:198   zeromoves:102
+stress:74  gainmoves:199   zeromoves:104
+stress:72  gainmoves:200   zeromoves:126
+stress:70  gainmoves:201   zeromoves:126
+stress:68  gainmoves:202   zeromoves:129
+stress:66  gainmoves:203   zeromoves:137
+stress:64  gainmoves:204   zeromoves:144
+stress:62  gainmoves:205   zeromoves:150
+stress:60  gainmoves:206   zeromoves:154
+stress:58  gainmoves:207   zeromoves:165
+stress:56  gainmoves:208   zeromoves:170
+stress:54  gainmoves:209   zeromoves:198
+stress:52  gainmoves:210   zeromoves:203
+stress:50  gainmoves:211   zeromoves:217
+stress:48  gainmoves:212   zeromoves:226
+stress:46  gainmoves:213   zeromoves:239
+stress:44  gainmoves:214   zeromoves:240
+stress:42  gainmoves:215   zeromoves:241
+stress:40  gainmoves:216   zeromoves:260
+stress:38  gainmoves:217   zeromoves:269
+stress:36  gainmoves:218   zeromoves:317
+stress:34  gainmoves:219   zeromoves:323
+stress:32  gainmoves:220   zeromoves:323
+stress:30  gainmoves:221   zeromoves:325
+stress:28  gainmoves:222   zeromoves:356
+stress:26  gainmoves:223   zeromoves:419
+stress:24  gainmoves:224   zeromoves:422
+stress:22  gainmoves:225   zeromoves:463
+stress:20  gainmoves:226   zeromoves:464
+stress:18  gainmoves:227   zeromoves:518
+stress:16  gainmoves:228   zeromoves:537
+stress:14  gainmoves:229   zeromoves:587
+stress:12  gainmoves:230   zeromoves:639
+stress:10  gainmoves:231   zeromoves:754
+stress:8  gainmoves:232   zeromoves:773
+stress:6  gainmoves:233   zeromoves:811
+stress:4  gainmoves:234   zeromoves:826
+stress:2  gainmoves:235   zeromoves:1042
+stress:0  gainmoves:236   zeromoves:1081
+0.05
+solved n=36
+SingleSol   0.05 s
+failRatio   0.0
+
+

@@ -1,0 +1,138 @@
+n=300
+15 runs
+5.0 mpbMax
+5.0sec redoTime
+6 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+No.Searches: 8
+durPre6:3.414
+dur6:   0.188
+dur4:   0.015
+dur2:   0.094
+searchDur:0.297
+durSum: 3.7110000000000003
+170455 (3.7 mpb) (3.72 sec)
+No.Searches: 10
+durPre6:2.998
+dur6:   0.109
+dur4:   -1.60960969609E9
+dur2:   1.609609696403E9
+searchDur:0.391
+durSum: 3.4200003147125244
+173000 (3.8 mpb) (3.42 sec)
+No.Searches: 1
+durPre6:2.953
+dur6:   -1.609609699356E9
+dur4:   0.0
+dur2:   1.609609699387E9
+searchDur:0.031
+durSum: 2.9840002059936523
+168500 (3.7 mpb) (2.98 sec)
+No.Searches: 14
+durPre6:2.625
+dur6:   -1.609609702012E9
+dur4:   1.609609702121E9
+dur2:   0.235
+searchDur:0.297
+durSum: 2.968999967575073
+167000 (3.6 mpb) (2.96 sec)
+No.Searches: 4
+durPre6:2.953
+dur6:   -1.609609705309E9
+dur4:   1.60960970534E9
+dur2:   0.062
+searchDur:0.093
+durSum: 3.045999967575073
+183500 (4.0 mpb) (3.05 sec)
+No.Searches: 93
+durPre6:2.781
+dur6:   0.047
+dur4:   0.14
+dur2:   2.063
+searchDur:1.862
+durSum: 5.031000000000001
+    redo (5.01 sec)
+No.Searches: 3
+durPre6:2.344
+dur6:   -1.60960971284E9
+dur4:   1.609609712871E9
+dur2:   0.062
+searchDur:0.063
+durSum: 2.437000238418579
+161204 (3.5 mpb) (2.43 sec)
+No.Searches: 4
+durPre6:2.597
+dur6:   0.046
+dur4:   0.032
+dur2:   0.047
+searchDur:0.109
+durSum: 2.722
+188500 (4.1 mpb) (2.71 sec)
+No.Searches: 5
+durPre6:2.906
+dur6:   0.109
+dur4:   0.016
+dur2:   0.031
+searchDur:0.156
+durSum: 3.0620000000000003
+172500 (3.8 mpb) (3.07 sec)
+No.Searches: 8
+durPre6:2.703
+dur6:   0.156
+dur4:   0.047
+dur2:   0.25
+searchDur:0.235
+durSum: 3.156
+173000 (3.8 mpb) (3.15 sec)
+No.Searches: 6
+durPre6:2.812
+dur6:   -1.609609724701E9
+dur4:   1.609609724935E9
+dur2:   0.016
+searchDur:0.234
+durSum: 3.0620000038146973
+185000 (4.0 mpb) (3.07 sec)
+No.Searches: 2
+durPre6:2.812
+dur6:   -1.609609727763E9
+dur4:   1.609609727795E9
+dur2:   0.0
+searchDur:0.032
+durSum: 2.8440001010894775
+166000 (3.6 mpb) (2.83 sec)
+No.Searches: 13
+durPre6:3.031
+dur6:   0.031
+dur4:   0.203
+dur2:   0.188
+searchDur:0.313
+durSum: 3.4530000000000003
+191000 (4.2 mpb) (3.44 sec)
+No.Searches: 1
+durPre6:2.828
+dur6:   -1.609609734076E9
+dur4:   0.0
+dur2:   1.609609734107E9
+searchDur:0.031
+durSum: 2.8590002059936523
+168000 (3.7 mpb) (2.86 sec)
+No.Searches: 13
+durPre6:2.639
+dur6:   0.031
+dur4:   0.031
+dur2:   0.391
+searchDur:0.266
+durSum: 3.092
+170000 (3.7 mpb) (3.09 sec)
+No.Searches: 10
+durPre6:2.875
+dur6:   -1.609609740074E9
+dur4:   1.609609740105E9
+dur2:   0.172
+searchDur:0.172
+durSum: 3.0780001373291017
+169500 (3.7 mpb) (3.07 sec)
+Avg 3.4 sec

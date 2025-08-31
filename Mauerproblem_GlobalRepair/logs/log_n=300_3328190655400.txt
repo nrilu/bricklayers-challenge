@@ -1,0 +1,21 @@
+n=300
+10 runs
+8.0 mpbMax
+6.0sec redoTime
+0 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+3.26
+2.87
+3.34
+2.47
+2.55
+2.87
+2.71
+3.59
+2.88
+3.28
+Avg 4.04525 sec
+anteil last3:  0.012408536585365854

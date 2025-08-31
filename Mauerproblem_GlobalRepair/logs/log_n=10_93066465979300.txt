@@ -1,0 +1,30 @@
+n=10
+1 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics true
+>>>
+stress:30  gainmoves:1   zeromoves:0
+stress:28  gainmoves:2   zeromoves:0
+stress:26  gainmoves:3   zeromoves:0
+stress:24  gainmoves:4   zeromoves:0
+stress:22  gainmoves:5   zeromoves:0
+stress:20  gainmoves:6   zeromoves:0
+stress:18  gainmoves:7   zeromoves:0
+stress:16  gainmoves:8   zeromoves:0
+stress:14  gainmoves:9   zeromoves:0
+stress:12  gainmoves:10   zeromoves:0
+stress:10  gainmoves:11   zeromoves:5
+stress:8  gainmoves:12   zeromoves:11
+stress:6  gainmoves:13   zeromoves:13
+stress:4  gainmoves:14   zeromoves:13
+stress:2  gainmoves:15   zeromoves:16
+stress:0  gainmoves:16   zeromoves:50
+
+total dur: 5.768 s
+solved n=10
+SingleSol   5.768 s
+failRatio   0.0
+
+

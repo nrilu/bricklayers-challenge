@@ -1,0 +1,13 @@
+n=36
+1 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics true
+>>>
+5.751
+solved n=36
+SingleSol   5.751 s
+failRatio   0.0
+
+

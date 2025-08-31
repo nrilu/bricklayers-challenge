@@ -1,0 +1,24 @@
+n=50
+10 runs
+10.0 mpbMax
+0.0sec allowed first duration
+1.5 cutFactor
+0 SearchOnset
+>>>
+0.074
+0.134
+0.03
+0.022
+0.02
+0.076
+0.065
+0.015
+0.014
+0.027
+AvgDuration 0.04851
+SingleSol   0.024
+avgSuccMPB  3.035
+last3Anteil 0.321
+failRatio   0.23
+
+

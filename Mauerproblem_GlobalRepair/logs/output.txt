@@ -1,0 +1,52 @@
+n=300
+15 runs
+4.0 mpbMax
+20 SearchOnset
+500 Period
+500 Steps
+20 Depth
+
+171500 (3.7 mpb) (3.28 sec)
+147696 (3.2 mpb) (2.79 sec)
+162500 (3.5 mpb) (2.58 sec)
+        redo (4.41 sec)
+143000 (3.1 mpb) (2.37 sec)
+158500 (3.4 mpb) (3.48 sec)
+157500 (3.4 mpb) (2.83 sec)
+178500 (3.9 mpb) (3.42 sec)
+156161 (3.4 mpb) (3.72 sec)
+164905 (3.6 mpb) (3.08 sec)
+144000 (3.1 mpb) (2.43 sec)
+149690 (3.3 mpb) (2.86 sec)
+        redo (2.83 sec)
+171500 (3.7 mpb) (2.93 sec)
+175785 (3.8 mpb) (3.03 sec)
+150500 (3.3 mpb) (2.4 sec)
+173000 (3.8 mpb) (3.07 sec)
+Avg 3.44 sec
+n=300
+n=300
+15 runs
+4.0 mpbMax
+20 SearchOnset
+500 Period
+500 Steps
+20 Depth
+
+163810 (3.6 mpb) (2.95 sec)
+167125 (3.6 mpb) (2.88 sec)
+139000 (3.0 mpb) (2.13 sec)
+    redo (3.24 sec)
+161592 (3.5 mpb) (2.6 sec)
+152000 (3.3 mpb) (2.26 sec)
+162270 (3.5 mpb) (2.8 sec)
+179500 (3.9 mpb) (2.87 sec)
+160500 (3.5 mpb) (3.0 sec)
+158500 (3.4 mpb) (3.05 sec)
+156500 (3.4 mpb) (2.73 sec)
+158668 (3.5 mpb) (2.79 sec)
+169730 (3.7 mpb) (2.66 sec)
+173537 (3.8 mpb) (2.81 sec)
+144000 (3.1 mpb) (2.08 sec)
+157000 (3.4 mpb) (2.7 sec)
+Avg 2.91 sec

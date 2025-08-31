@@ -1,0 +1,24 @@
+n=1000
+10 runs
+10.0 mpbMax
+120.0sec allowed first duration
+0 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+58.017
+76.615
+65.458
+155.751
+85.807
+65.471
+70.736
+75.481
+72.55
+69.549
+AvgDuration 79.88373
+SingleSol   70.625
+avgSuccMPB  5.975
+last3Anteil 0.188
+failRatio   0.09

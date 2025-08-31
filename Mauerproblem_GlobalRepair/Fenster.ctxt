@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fenster
+comment0.text=\n\ Write\ a\ description\ of\ class\ Fenster\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=m\ b\ h
+comment1.target=Fenster(Main,\ int,\ int)
+comment2.params=
+comment2.target=void\ initSelf()
+comment3.params=
+comment3.target=void\ initComponents()
+numComments=4

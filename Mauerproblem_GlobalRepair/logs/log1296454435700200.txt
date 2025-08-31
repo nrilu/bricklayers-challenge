@@ -1,0 +1,16 @@
+n=300
+1 runs
+10.0 mpbMax
+10.0sec redoTime
+0 SearchOnset
+100 Period
+90000 Steps
+60 Depth
+
+durPre6:5.424
+dur6:   0.03
+dur4:   0.505
+dur2:   0.085
+durSum: 6.0440000000000005
+200974 (4.4 mpb) (6.05 sec)
+Avg 6.36 sec

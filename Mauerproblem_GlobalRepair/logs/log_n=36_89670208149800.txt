@@ -1,0 +1,14 @@
+n=36
+1 runs
+10.0 mpbMax
+2.0 cutFactor
+0 SearchOnset
+liveGraphics true
+>>>
+4.105
+AvgDuration 4.10752
+SingleSol   4.103
+avgSuccMPB  2.152
+failRatio   0.0
+
+

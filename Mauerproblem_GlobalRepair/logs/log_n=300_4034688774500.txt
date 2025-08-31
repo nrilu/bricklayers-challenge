@@ -1,0 +1,157 @@
+n=300
+10 runs
+5.0 mpbMax
+6.0sec redoTime
+0 SearchOnset
+500 Period
+3000 Steps
+12 Depth
+
+No.Searches: 0
+durPre6:3.062
+dur6:   0.0
+dur4:   0.157
+dur2:   0.125
+searchDur:0.0
+durSum: 3.344
+last6ToTotal: 0.0844311377245509
+No.Searches: 0
+durPre6:2.718
+dur6:   0.063
+dur4:   0.093
+dur2:   0.11
+searchDur:0.0
+durSum: 2.984
+last6ToTotal: 0.08956228956228957
+No.Searches: 0
+durPre6:2.359
+dur6:   0.047
+dur4:   0.281
+dur2:   0.016
+searchDur:0.0
+durSum: 2.7030000000000003
+last6ToTotal: 0.12740740740740739
+9.023
+No.Searches: 0
+durPre6:2.14
+dur6:   0.282
+dur4:   0.093
+dur2:   0.0
+searchDur:0.0
+durSum: 2.515
+last6ToTotal: 0.14940239043824702
+2.512
+No.Searches: 0
+durPre6:2.547
+dur6:   0.406
+dur4:   0.016
+dur2:   0.094
+searchDur:0.0
+durSum: 3.063
+last6ToTotal: 0.16918032786885248
+3.058
+No.Searches: 0
+durPre6:2.265
+dur6:   0.094
+dur4:   0.047
+dur2:   0.016
+searchDur:0.0
+durSum: 2.422
+last6ToTotal: 0.06460905349794238
+2.434
+No.Searches: 0
+durPre6:2.891
+dur6:   0.031
+dur4:   0.109
+dur2:   0.094
+searchDur:0.0
+durSum: 3.125
+last6ToTotal: 0.07476038338658147
+3.135
+No.Searches: 0
+durPre6:2.5
+dur6:   0.0
+dur4:   0.078
+dur2:   0.5
+searchDur:0.0
+durSum: 3.078
+last6ToTotal: 0.18888888888888888
+No.Searches: 0
+durPre6:2.578
+dur6:   0.219
+dur4:   -1.609612907822E9
+dur2:   1.609612908181E9
+searchDur:0.0
+durSum: 3.1559998989105225
+last6ToTotal: 0.18291139240506327
+No.Searches: 0
+durPre6:2.25
+dur6:   0.031
+dur4:   0.094
+dur2:   0.297
+searchDur:0.0
+durSum: 2.672
+last6ToTotal: 0.15805243445692885
+8.908
+No.Searches: 0
+durPre6:2.375
+dur6:   0.187
+dur4:   0.016
+dur2:   0.156
+searchDur:0.0
+durSum: 2.734
+last6ToTotal: 0.13198529411764703
+No.Searches: 0
+durPre6:2.359
+dur6:   0.062
+dur4:   0.032
+dur2:   0.312
+searchDur:0.0
+durSum: 2.7649999999999997
+last6ToTotal: 0.14763636363636365
+5.519
+No.Searches: 0
+durPre6:2.344
+dur6:   0.0
+dur4:   0.109
+dur2:   0.094
+searchDur:0.0
+durSum: 2.5469999999999997
+last6ToTotal: 0.07960784313725491
+2.55
+No.Searches: 0
+durPre6:2.297
+dur6:   0.047
+dur4:   0.0
+dur2:   0.14
+searchDur:0.0
+durSum: 2.4840000000000004
+last6ToTotal: 0.0757085020242915
+2.476
+No.Searches: 0
+durPre6:2.781
+dur6:   0.157
+dur4:   0.203
+dur2:   0.015
+searchDur:0.0
+durSum: 3.156
+last6ToTotal: 0.11904761904761905
+No.Searches: 0
+durPre6:2.766
+dur6:   0.0
+dur4:   0.031
+dur2:   0.25
+searchDur:0.0
+durSum: 3.047
+last6ToTotal: 0.0924342105263158
+No.Searches: 0
+durPre6:2.203
+dur6:   0.11
+dur4:   0.078
+dur2:   0.437
+searchDur:0.0
+durSum: 2.8279999999999994
+last6ToTotal: 0.22084805653710246
+9.04
+Avg 4.867 sec
+anteil last3:  0.022084805653710245

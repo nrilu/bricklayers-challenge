@@ -1,0 +1,26 @@
+n=300
+15 runs
+5.0 mpbMax
+2 SearchOnset
+300 Period
+180000 Steps
+300 Depth
+
+203400 (4.4 mpb) (3.93 sec)
+184200 (4.0 mpb) (3.64 sec)
+    redo (3.6 sec)
+204000 (4.5 mpb) (3.42 sec)
+182100 (4.0 mpb) (3.09 sec)
+196200 (4.3 mpb) (3.21 sec)
+207900 (4.5 mpb) (3.51 sec)
+195000 (4.3 mpb) (3.24 sec)
+186900 (4.1 mpb) (3.06 sec)
+191100 (4.2 mpb) (3.07 sec)
+    redo (5.67 sec)
+166200 (3.6 mpb) (2.57 sec)
+219300 (4.8 mpb) (4.96 sec)
+197700 (4.3 mpb) (3.18 sec)
+194700 (4.2 mpb) (3.1 sec)
+197400 (4.3 mpb) (3.13 sec)
+166500 (3.6 mpb) (2.9 sec)
+Avg 3.96 sec

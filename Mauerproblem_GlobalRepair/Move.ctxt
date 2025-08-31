@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=f\ pneu
+comment0.target=Move(Fuge,\ int)
+comment1.params=f\ pneu\ blong\ invertiert
+comment1.target=Move(Fuge,\ int,\ int,\ boolean)
+numComments=2
