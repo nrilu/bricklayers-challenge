@@ -1,7 +1,11 @@
-This program solve the bricklayers-challenge Problem stated in the [2nd round] of the 2018 German Computer Science Competition BWINF [(page 4: "Aufgabe 1: Die Kunst der Fuge")](https://bwinf.de/fileadmin/wettbewerbe/bundeswettbewerb/36/2_runde/aufgaben362.pdf). 
+This program solve the bricklayers-challenge from the [2018 German Computer Science Competition BWINF](https://bwinf.de/fileadmin/wettbewerbe/bundeswettbewerb/36/2_runde/aufgaben362.pdf) (page 4: "Aufgabe 1: Die Kunst der Fuge"). 
 The original problem statement stems from Barry Cipra.
 
 This implementation here can find solutions up to ca. n=2000, at which point RAM becomes a limiting factor. At the time of the contest n=34 was the largest known solution.
+
+<img src="screenshot.png" alt="Visualization" width="70%"/>
+Screenshot of the solving process for n=36. Red bars indicate remaining collisions. The two green blocks just swapped position.
+
 
 # Run:
 Have some Java Environment (for example [BlueJ](https://www.bluej.org/)) ready and open ``/Mauerproblem_GlobalRepair`` as a project. Then create an instance of Starter(), this runs the program.
@@ -27,5 +31,7 @@ Either pairwise swaps between to adjacent blocks. Or triplet swap, where two adj
 their position.  Swapping is done greedily, so this program can run into local minima occasionally. For that case some restarting is done if it doesnt detect any progress for too long.
 This happens sometimes, especially for larger instances, but often it also directly finds a solution at the first attempt, especially for smaller instances.
 
+
+
 # Video 
-A video of n=36 solving animation is provided at ``graphics_n=36.mp4``.
+A video of the solving process is provided in the repo in ``graphics_n=36.mp4``, direct link ![here](graphics_n=36.mp4).
