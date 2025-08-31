@@ -5,7 +5,7 @@ The original problem statement stems from Barry Cipra.
 This Java implementation here can find solutions up to ca. n=2000 in some minutes, at which point RAM becomes a limiting factor. At the time of the contest n=34 was the largest known solution.
 
 <img src="screenshot.png" alt="Visualization" width="70%"/>
-Screenshot of the simulated annealing solving process for n=36. Red bars indicate remaining collisions. The two green blocks just swapped their position to reduce collisions.
+Screenshot of the solving process for n=36. Red bars indicate remaining collisions. The program works similar to simulated annealing, it iterateivly swaps blocks to reduce stress.
 
 
 # Run:
